@@ -11,10 +11,12 @@ Samrudha works on solving NLP, computer vision, ML, and optimization problems as
 
 <img src="samrudha.jpg"
      height="200px"
-     style=" margin-right: 20px;; margin-right: 20px;" />
+      width="200px"
+     style=" margin-left: 20px;; margin-right: 20px;" />
 
 <img src="sarath.jpg"
      height="200px"
-     style=" margin-right: 20px;; margin-right: 20px;" /> 
+     width="200px"
+     style=" margin-left: 20px;; margin-right: 20px;" /> 
 ## Presentation:
 Presentation for the workshop can be accessed at: https://prezi.com/view/vuIw7tUuSRkheTD4M3iD/
