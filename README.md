@@ -11,7 +11,8 @@ This repository is for the FDP workshop on Machine Learning Applications organiz
 
 - Sarath S ( Researcher, TRDDC (A research lab of TCS), Pune) 
 <img src="sarath.jpg"
-     alt="Markdown Monster icon"
+     height="20px"
+     width="20px"
      style="float: left; margin-right: 10px;" />
   Sarath works as a researcher in the computer vision domain. He has an interest in deep learning, Media, Vision, and behavioral sciences. He is associated with the CVIT lab, IIIT Hyderabad as a post-graduate student.
 
