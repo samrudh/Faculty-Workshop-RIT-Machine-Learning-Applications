@@ -1,9 +1,17 @@
 # Faculty-Workshop at RIT: Machine Learning Applications
 This repository is for the FDP workshop on Machine Learning Applications organized by RIT, Maharashtra 
 
+ * Programming Language: python
+ * Tools Used: Keras, tensorflow, Spacy, Googlenews APIs,
+ * Hosted platform: [Jovian.ml](https://jovian.ml/)
+
+
+## Presentation:
+Presentation for the workshop can be accessed at: https://prezi.com/view/vuIw7tUuSRkheTD4M3iD/
+
 
 ## Speakers
-- Samrudha Kelkar ( Senior Data Scientist, Spiceworks) 
+- [Samrudha Kelkar](https://www.linkedin.com/in/samrudha-kelkar-data-science/) ( Senior Data Scientist, Spiceworks) 
 Samrudha works on solving NLP, computer vision, ML, and optimization problems as a product data scientist. He has worked in companies like Honeywell, DBS Bank, Spiceworks. He holds a master's degree with a specialization in image processing from IIT, Bombay  
 
 - Sarath S ( Researcher, TRDDC (A research lab of TCS), Pune) 
@@ -20,6 +28,3 @@ Samrudha works on solving NLP, computer vision, ML, and optimization problems as
  />
 
 
-
-## Presentation:
-Presentation for the workshop can be accessed at: https://prezi.com/view/vuIw7tUuSRkheTD4M3iD/
