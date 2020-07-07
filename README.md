@@ -1,4 +1,4 @@
-# Faculty-Workshop-RIT-Machine-Learning-Applications
+# Faculty-Workshop at RIT: Machine Learning Applications
 This repository is for the FDP workshop on Machine Learning Applications organized by RIT, Maharashtra 
 
 
@@ -6,7 +6,7 @@ This repository is for the FDP workshop on Machine Learning Applications organiz
 - Samrudha Kelkar ( Senior Data Scientist, Spiceworks)
   Samrudha works on solving NLP, computer vision, ML, and optimization problems as a product data scientist. He has worked in companies like Honeywell, DBS Bank, Spiceworks. He holds a master's degree with a specialization in image processing from IIT, Bombay  
 
-- Sarath S ( Researcher, TRDDC (A research lab of TCS), Pune)
+- Sarath S ( Researcher, TRDDC (A research lab of TCS), Pune) ![Sarath](https://drive.google.com/file/d/1azWIl2q3neWHY15kVlF6img_vBW6qbTX/view?usp=sharing)
   Sarath works as a researcher in the computer vision domain. He has an interest in deep learning, Media, Vision, and behavioral sciences. He is associated with the CVIT lab, IIIT Hyderabad as a post-graduate student.
 
 
