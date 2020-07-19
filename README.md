@@ -1,4 +1,4 @@
-# Faculty-Workshop at RIT: Machine Learning Applications
+# Faculty-Workshop: Machine Learning Applications
 This repository is for the FDP workshop on Machine Learning Applications organized by RIT, Maharashtra 
 
  * Programming Language: Python
