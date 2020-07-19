@@ -1,5 +1,5 @@
-# Faculty-Workshop: Machine Learning Applications
-This repository is for the FDP workshop on Machine Learning Applications organized by RIT, Maharashtra 
+# Workshop on Machine Learning Applications 
+This repository is for the Faculty Development Program workshop on Machine Learning Applications organized for an engineering college in Maharashtra 
 
  * Programming Language: Python
  * Tools Used: Keras, Tensorflow, Spacy, Googlenews API
